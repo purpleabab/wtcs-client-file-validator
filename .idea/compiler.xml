@@ -26,7 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="wtcs-client-file-validator" target="1.5" />
+      <module name="wtcs-client-file-validator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

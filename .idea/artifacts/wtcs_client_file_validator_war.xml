@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="wtcs-client-file-validator:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="001.war">
+    <root id="archive" name="ClientFileValidator.war">
       <element id="artifact" artifact-name="wtcs-client-file-validator:war exploded" />
     </root>
   </artifact>
